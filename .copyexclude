@@ -1,0 +1,8 @@
+requirements.txt
+*.zip
+.git/*
+.git
+.mypy_cache/*
+*/.mypy_cache
+src/UNO-main
+wandb
